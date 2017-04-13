@@ -14,7 +14,7 @@ import java.util.List;
  *
  * @author Алексей
  */
-public class LangCode {
+public class Main {
 
     /**
      * @param args the command line arguments
